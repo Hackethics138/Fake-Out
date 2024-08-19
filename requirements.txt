@@ -1,0 +1,6 @@
+illusionanime
+illusioncolor
+httpx
+datetime
+requests
+pytz
